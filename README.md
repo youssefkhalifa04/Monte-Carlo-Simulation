@@ -6,6 +6,7 @@
   ├── scenario_comparison.png    # Output bar chart comparing average wait times
   ├── simulation_report.pdf      # Optional detailed report of the simulation
   └── .idea/                     # IDE configuration files (can be ignored)
+  
 🧠 Description
   The system simulates the arrival and service of packets in a server environment with varying parameters:
   
