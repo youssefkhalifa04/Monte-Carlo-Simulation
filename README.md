@@ -44,6 +44,8 @@
 
 📊 Sample Chart
 <img src="scenario_comparison.png" width="500"/>
+
+
 ✍️ Author
   Youssef Khalifa
   GitHub: @youssefkhalifa04
